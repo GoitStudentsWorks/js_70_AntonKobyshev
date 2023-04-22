@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AntonKobyshev.github.io/Filmoteka-lighter-project",
+  "homepage": "https://goitstudentsworks.github.io/js_70_AntonKobyshev",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Filmoteka-lighter-project/"
